@@ -1,0 +1,284 @@
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+}
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 980px) {
+.pageWidth {
+	width: auto;
+	padding: 0 10px;
+}
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 25px;
+}
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+.serviceBox i {
+	width: 80px;
+	height: 80px;
+	font-size: 40px;
+	line-height: 80px;
+}
+.menu nav li a {
+	margin-left: 5px;
+	padding: 12px 18px;
+}
+}
+
+@media (max-width: 878px) {
+.subscribe h2 {
+	width: 80%;
+}
+.element_to_pop_up, .element_to_pop_up2, .element_to_pop_up3 {
+	width: 90%;
+}
+}
+ @media (max-width: 798px) {
+	.col-lg-3 {
+		width: 27%;
+		margin-right: 5%;
+	}
+}
+ @media (max-width: 880px) {
+h1 {
+ font-size: 28px;
+}
+h2 {
+ font-size: 22px;
+}
+h3 {
+ font-size: 18px;
+}
+h4 {
+ font-size: 16px;
+}
+.menu {
+ display: none;
+}
+.sticky-navigation {
+ position: relative !important;
+}
+.logo-small {
+ display: none !important;
+}
+.mean-container .mean-nav ul li i {
+ display:none;
+}
+.ms-layer.bold-title {
+ top: 70px !important;
+ font-size: 20px !important;
+ line-height: 30px !important;
+}
+.ms-layer.normal-desc {
+ top: 120px !important;
+ width: 92%;
+ font-size: 14px !important;
+ line-height: 18px !important;
+ font-weight: 400;
+}
+.ms-layer.more-link {
+ top: 200px !important;
+}
+.more-link a {
+ padding: 10px 20px;
+ font-size: 16px;
+ line-height: 16px;
+}
+.ms-skin-black-2 .ms-bullets.ms-dir-h {
+ display: none;
+}
+.serviceBox, .serviceRow .serviceBox:first-child {
+ width: 98%;
+ margin-left: 2%;
+ margin-bottom: 15px;
+}
+.serviceRow {
+ margin-top: 0;
+}
+.services {
+ padding-top: 40px;
+ padding-bottom: 20px;
+}
+ .col-lg-3 {
+ width: 90%;
+ margin-right:5%;
+ padding:14px 0;
+}
+ .footerTop {
+ padding:15px 0;
+}
+.titleSection h2, .bredcrom {
+ float: left;
+ width: 100%;
+}
+.bredcrom ul {
+ float:left;
+}
+.leftPanel, .rightPanel {
+ width:95%;
+}
+.leftArea {
+ width: 100%;
+ padding-right:0;
+ border-right:0 solid #ddd;
+ border-bottom:1px solid #ddd;
+ margin:10px 0;
+}
+.rightArea {
+ float: right;
+ width: 100%;
+}
+ .downBtn {
+ text-align: center;
+ width: 100%;
+ padding:15px 0;
+}
+.homeContentLeft, .homeContentRight {
+ float:left;
+ padding:0;
+ width:100%;
+ margin:0;
+}
+.homeContent h2{
+	font-size:20px;
+	line-height:25px;
+	padding-bottom:10px;
+}
+ .homeContentRight {
+ margin-top:10px;
+ padding-top:25px;
+ border-left:0;
+ border-top:3px solid #ddd;
+}
+}
+ @media (max-width: 638px) {
+	.logoList ul li {
+		min-height: inherit;
+		width: 39%;
+	}
+	.logoList ul li a{
+		padding-left: 10px;
+	}
+	.logoList ul li, .logoList ul li:first-child {
+		border-bottom: 1px solid #d0d0d0;
+		border-left: 1px solid #d0d0d0;
+		border-right: 1px solid #d0d0d0;
+	}
+	.headLeft{
+		width: 66%;
+		min-width: 250px;
+	}
+}
+ @media (max-width: 600px) {
+.ms-layer.bold-title {
+ top: 30px !important;
+ font-size: 18px !important;
+ line-height: 22px !important;
+}
+.ms-layer.normal-desc {
+ top: 70px !important;
+ font-size: 12px !important;
+ line-height: 16px !important;
+}
+.ms-layer.more-link {
+ top: 150px !important;
+}
+.more-link a {
+ padding: 5px 10px;
+ font-size: 14px;
+ line-height: 14px;
+}
+.serviceBox i {
+ width: 80px;
+ height: 80px;
+ font-size: 40px;
+ line-height: 80px;
+}
+}
+ @media (max-width: 480px) {
+h2 {
+ font-size: 20px;
+}
+h3 {
+ font-size: 18px;
+}
+.qlikView li {
+ font-size: 14px;
+}
+.footerBottom a, .footerBottom p {
+ float:none;
+ width:100%;
+ padding-top:5px;
+}
+.footerBottom p {
+ padding:0;
+}
+footer p, footer a, footer li {
+ font-size: 14px;
+ line-height:20px;
+}
+ @media (max-width: 478px) {
+.ms-layer.bold-title {
+ top: 10px !important;
+ font-size: 16px !important;
+ line-height: 20px !important;
+}
+.ms-layer.normal-desc {
+ top: 35px !important;
+ font-size: 11px !important;
+}
+.ms-layer.more-link {
+ top: 110px !important;
+}
+.more-link a {
+ padding: 5px 10px;
+ font-size: 14px;
+ line-height: 14px;
+}
+.serviceBox i {
+ width: 70px;
+ height: 70px;
+ font-size: 35px;
+ line-height: 70px;
+}
+.contactForm ul li {
+ float: left;
+ width:100%;
+ margin-left: 0;
+}
+ .contactForm li div {
+ padding-bottom:5px;
+ width: 100%;
+}
+.imgLeft, .imgRight {
+ display:none;
+}
+.cont_img_right, .cont_img_left {
+ display:none;
+}
+.cont_right, .cont_left {
+ float:left;
+ width:100%;
+}
+}
+ @media (max-width: 360px) {
+.subscribe input {
+ width: 96%;
+ padding-left: 2%;
+ padding-right: 2%;
+ margin-bottom: 5px;
+}
+.subscribe button {
+ min-width: 100px;
+ text-align: center;
+}
+}
+ @media (max-width: 358px) {
+
+}
